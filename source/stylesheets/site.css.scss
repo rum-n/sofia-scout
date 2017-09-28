@@ -8,7 +8,8 @@ body {
 }
 
 h1 {
-  color: #fff;
+  color: gold;
+  font-size: 50pt;
 }
 
 a {
@@ -29,7 +30,18 @@ html {
 }
 
 .signup-form {
-  padding-top: 20%;
+  padding-top: 10%;
   padding-left: 5%;
+  padding-right: 50%;
+  position: relative;
+}
+
+.copyright {
+  font-family: "Helvetica", sans-serif;
+  color: grey;
+  font-size: 10pt;
+  padding: 1em;
   position: fixed;
+  right: 0;
+  bottom: 0;
 }
